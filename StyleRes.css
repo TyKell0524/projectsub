@@ -1,0 +1,16 @@
+body
+{
+    background-image: url(ReserveFeast.jpeg);    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+main{
+
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+}
